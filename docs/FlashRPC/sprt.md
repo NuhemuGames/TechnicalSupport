@@ -6,6 +6,9 @@
 |:---:|:---:|:---:|
 |<img src="https://github.com/NuhemuGames/TechnicalSupport/blob/main/docs/FlashRPC/imgs/MenuScene.png?raw=true" width="320px">|<img src="https://github.com/NuhemuGames/TechnicalSupport/blob/main/docs/FlashRPC/imgs/GameScene.png?raw=true" width="320px">|<img src="https://github.com/NuhemuGames/TechnicalSupport/blob/main/docs/FlashRPC/imgs/ResultScene.png?raw=true" width="320px">|
 
+
+### メニュー画面
+
 - モード選択：ゲーム画面に移動します。難易度によってゲーム内容が変わります。
     - かんたん  ：覚えた手に対し、常に「あいこ」となる手を回答します。
     - ふつう    ：覚えた手に対し、常に「かつ」手を回答します。
