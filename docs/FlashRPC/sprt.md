@@ -2,7 +2,7 @@
 
 このページでは、ゲームに関するサポートを提供しています。
 
-![メニュー画面](/FlashRPC/imgs/screenshot1.png)
+![メニュー画面](https://github.com/NuhemuGames/TechnicalSupport/blob/main/docs/FlashRPC/imgs/screenshot1.png?raw=true)
 
 ## お問い合わせ窓口
 
