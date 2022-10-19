@@ -2,9 +2,9 @@
 
 このページでは、ゲームに関するサポートを提供しています。
 
-|メニュー画面|ゲーム画面|
-|:---:|:---:|
-|<img src="https://github.com/NuhemuGames/TechnicalSupport/blob/main/docs/FlashRPC/imgs/MenuScene.png?raw=true" width="320px">|<img src="https://github.com/NuhemuGames/TechnicalSupport/blob/main/docs/FlashRPC/imgs/GameScene.png?raw=true" width="320px">|
+|メニュー画面|ゲーム画面|リザルト画面|
+|:---:|:---:|:---:|
+|<img src="https://github.com/NuhemuGames/TechnicalSupport/blob/main/docs/FlashRPC/imgs/MenuScene.png?raw=true" width="320px">|<img src="https://github.com/NuhemuGames/TechnicalSupport/blob/main/docs/FlashRPC/imgs/GameScene.png?raw=true" width="320px">|<img src="https://github.com/NuhemuGames/TechnicalSupport/blob/main/docs/FlashRPC/imgs/ResultScene.png?raw=true" width="320px">|
 
 ## お問い合わせ窓口
 
