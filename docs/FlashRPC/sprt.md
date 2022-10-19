@@ -2,7 +2,7 @@
 
 このページでは、ゲームに関するサポートを提供しています。
 
-![メニュー画面](/imgs/FlashRPC/screenshot1.png)
+![メニュー画面](/FlashRPC/imgs/screenshot1.png)
 
 ## お問い合わせ窓口
 
