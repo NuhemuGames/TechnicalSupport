@@ -3,8 +3,8 @@
 このページでは、ゲームに関するサポートを提供しています。
 
 |画面|説明|
-|:---:|TOP:---|
-|<img src="https://github.com/NuhemuGames/TechnicalSupport/blob/main/docs/FlashRPC/imgs/screenshot1.png?raw=true" width="320px">|テキスト|
+|:---:|:---|
+|<img src="https://github.com/NuhemuGames/TechnicalSupport/blob/main/docs/FlashRPC/imgs/screenshot1.png?raw=true" width="320px">|TOP:テキスト|
 
 ## お問い合わせ窓口
 
