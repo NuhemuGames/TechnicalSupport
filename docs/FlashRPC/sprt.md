@@ -14,7 +14,7 @@
     - ふつう    ：覚えた手に対し、常に「かつ」手を回答します。
     - むずかしい：覚えた手に対し、回答する条件がランダムで決まります。（「かつ」or「まける」or「あいこ」）
     - エクストラ：覚えた手に対し、回答する条件がランダムで決まります。（「かつ」or「まける」or「あいこ」）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;さらに、回答ボタンの位置が毎回ランダムに入れ替わります。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;さらに、回答ボタンの位置が毎回ランダムに入れ替わります。
 
 - あそびかた：ゲームの遊び方を説明します。
 
