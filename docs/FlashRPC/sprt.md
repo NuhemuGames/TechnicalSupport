@@ -35,7 +35,8 @@
 - おぼえる数：画面に次々と表示される手の数を指します。レベルが5つ上がると、覚える数が1つ増えます。
 
 - 判定：プレイヤーの回答が合っていれば"○"、間違っていれば"×"を表示します。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"○"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"○"の場合、レベルが上がり次の問題に移ります。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"×"の場合、ゲームが終了してリザルト画面に移動します。
 
 
 ## お問い合わせ窓口
